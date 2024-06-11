@@ -5,8 +5,13 @@ export default {
     "./src/**/*.{vue,js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'poppins': ['Poppins', 'sans-serif'],
+        'quicksand': ['Quicksand', 'sans-serif'],
+        'kumbh-sans': ['Kumbh Sans', 'sans-serif']
+      }
+    },
   },
   plugins: [],
 }
-
