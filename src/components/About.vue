@@ -49,6 +49,9 @@
 </template>
 
 <style scoped>
+*{
+  font-family: 'poppins', 'sans-serif';
+}
 img {
   height: 150px;
   width: 150px;

@@ -11,7 +11,7 @@
         <li>
           <router-link  active-class="text-[#023e8a]" class= "font-poppins hover:text-[#023e8a]" to = "/about"> About</router-link> </li>
           <li>
-            <a href="https://github.com/KianCandelario/ProgAlgo"><img src="/src/assets/gitblack.svg" alt=""></a>
+            <a href="https://github.com/KianCandelario/ProgAlgo" target="_blank"><img src="/src/assets/gitblack.svg" ></a>
           </li>
     </ul>
   </nav>

@@ -35,6 +35,9 @@ export default {
 </script>
 
 <style>
+*{
+  font-family: 'poppins', 'sans-serif';
+}
 li {
   cursor: pointer;
 }
